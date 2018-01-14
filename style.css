@@ -1,0 +1,214 @@
+@keyframes slideInFromTop {
+  0% {
+    top: -409px;
+  }
+  100% {
+    top: 0;
+  }
+}
+
+@keyframes slideInFromLeft {
+  0% {
+    left: -409px;
+  }
+  100% {
+    left: 0;
+  }
+}
+
+body {
+    background: url(background.png) no-repeat;
+    background-size: cover;
+    font-family: Roboto;
+    margin: 0 auto;
+}
+
+.header {
+    width: 840px;
+    height: 340px;
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+    border-right: 1px solid rgba(255, 255, 255, 0.5);
+    position: relative;
+    z-index: 2;
+    animation: 2s ease-in 0s 1 slideInFromTop;
+}
+
+.wide {display: block;text-align: -webkit-center;}
+
+nav {
+    width: 842px;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 0 0 5px 5px;
+}
+
+.headnav {
+    position: relative;
+    z-index: 1;
+    animation: 2.7s ease-in 0s 1 slideInFromTop;
+    margin-top: -4px;
+}
+
+nav ul {
+    overflow: auto;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+
+nav ul li {
+    display: inline-block;
+    position: relative;
+    color: #0146ab;
+    margin-right: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+nav ul li:hover {
+    background: #2e85e4;
+    color: #fff;
+}
+
+nav ul li:active {
+    filter: opacity(0.5);
+}
+
+nav ul a.active li {
+    background: #0146ab;
+    color: #fff;
+}
+
+nav ul a.active {
+    pointer-events: none;
+}
+
+nav > ul > a > li > div {
+    min-width: 64px;
+    height: 41px;
+    text-align: center;
+    font-size: 40px;
+}
+
+nav > ul > a > li > p {
+    font-weight: bold;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: auto;
+    float: none;
+    align-items: center;
+    text-align: center;
+}
+
+.bio {
+    width: 842px;
+    color: #0146ab;
+    background: rgba(255, 255, 255, 0.5);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    position: relative;
+    animation: 2.7s ease-in 0s 1 slideInFromLeft;
+}
+
+nav.footer {
+    border-radius: 5px 5px 0 0;
+}
+
+nav.footer h1 {
+    margin: 0;
+}
+
+nav.footer h4 {
+    margin: 0;
+}
+
+credits p {
+    margin: 0;
+}
+
+#navbar nav {
+    display: inline-block;
+    border-radius: 0 0 0 0;
+}
+
+#navbar nav img {
+    display: inline-block;
+}
+
+#navbar {
+    background: #fff;
+    width: 100%;
+    height: 69px;
+    position: fixed;
+    transition: top 0.3s;
+    top: -69px;
+    z-index: 2;
+}
+
+#navbar img {
+    margin: 0 5px 0 5px;
+    position: relative;
+    top: -12px;
+}
+
+#navbar .socialicons {
+    position: relative;
+    float: right;
+    top: 30px;
+}
+
+.socialicons img {
+    width: 30px;
+    margin-right: 7px;
+}
+
+.footer .socialicons {
+    display: none;
+}
+
+#top {
+    position: fixed;
+    bottom: -70px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background: #0146ab;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 15px 1px #0146ab;
+    z-index: 1;
+    transition: top 0.3s;
+}
+
+@media(max-width:8in){
+.header {
+    width: 99.5%;
+    height: 81%;
+}
+
+.headnav {display: none;}
+
+.bio {
+    width: 89%;
+    padding: 0 15px 0 15px;
+    margin: 0px 5px 20px 5px;
+}
+
+nav.footer {
+    width: 92%;
+}
+
+#navbar .socialicons {
+    display: none;
+}
+
+.footer .socialicons {position: initial;float: none; display: initial;}
+
+.footer .socialicons img {
+    width: 54px;
+}
+}
