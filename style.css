@@ -114,6 +114,13 @@ nav > ul > a > li > p {
     animation: 2.7s ease-in 0s 1 slideInFromLeft;
 }
 
+blockquote {
+    background: #217ad3;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 10px solid;
+    padding: 7px;
+}
+
 nav.footer {
     border-radius: 5px 5px 0 0;
 }
