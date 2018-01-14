@@ -126,8 +126,16 @@ nav.footer h4 {
     margin: 0;
 }
 
+credits {
+    float: left;
+    margin-top: -3px;
+    margin-left: 3px;
+    padding-top: 2px;
+}
+
 credits p {
     margin: 0;
+    font-size: 14px;
 }
 
 #navbar nav {
@@ -210,5 +218,17 @@ nav.footer {
 
 .footer .socialicons img {
     width: 54px;
+}
+
+credits {
+    float: none;
+}
+
+credits p {
+    font-size: 16px;
+}
+
+credits img {
+    width: 200px;
 }
 }
