@@ -119,6 +119,7 @@ blockquote {
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 10px solid;
     padding: 7px;
+    border-radius: 3px;
 }
 
 blockquote div {
