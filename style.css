@@ -115,10 +115,19 @@ nav > ul > a > li > p {
 }
 
 blockquote {
-    background: #217ad3;
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 10px solid;
     padding: 7px;
+}
+
+blockquote div {
+    float: left;
+    height: 100%;
+    font-size: 20px;
+}
+
+blockquote.info {
+    background: #217ad3;
 }
 
 nav.footer {
