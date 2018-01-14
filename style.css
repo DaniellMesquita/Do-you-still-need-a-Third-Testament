@@ -104,6 +104,16 @@ nav > ul > a > li > p {
     text-align: center;
 }
 
+breadcrumb {
+    position: relative;
+    top: 5px;
+    padding: 5px;
+    border-radius: 0 0 5px 5px;
+    background: #217ad3;
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
 .bio {
     width: 842px;
     color: #0146ab;
