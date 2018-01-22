@@ -34,3 +34,13 @@ Midi > T, R, Canções
 Tec > As nossas, Outras tecnologias
 
 Sobre > Hist, E, Endereços, Agenda
+
+window.onscroll = function() {scrolltopFunction()};
+
+function scrolltopFunction() {
+  if (document.body.scrollTop > 340 || document.documentElement.scrollTop > 340) {
+    document.getElementById("top").style.bottom = "20px";
+  } else {
+    document.getElementById("top").style.bottom = "-70px";
+  }
+}
