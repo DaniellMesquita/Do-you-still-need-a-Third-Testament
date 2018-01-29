@@ -124,6 +124,11 @@ breadcrumb {
     animation: 2.7s ease-in 0s 1 slideInFromLeft;
 }
 
+.bio p::first-letter {
+    font-size: 25px;
+    font-weight: bold;
+}
+
 blockquote {
     background: rgba(255, 255, 255, 0.5);
     border: 1px solid rgba(255, 255, 255, 0.5);
