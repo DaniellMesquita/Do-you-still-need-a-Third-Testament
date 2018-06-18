@@ -1,10 +1,12 @@
-Reg:
-Mtns 1-2
+D:\Documents\Pictures\Scans
 
-Scan and reg:
+Reg and PDF:
+Mtns 1-2
+?
+
+Scan, reg and PDF:
 Blmn 4
 Mtns 3-4
-?
 Dd
 Ncls
 Au
