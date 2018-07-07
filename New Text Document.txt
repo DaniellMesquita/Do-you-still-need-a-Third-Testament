@@ -1,28 +1,18 @@
+Social networks
+HTTPS
+Loading page
+AJAX pages
+
 Blog
 Swipe mobile menus
 Identify when menu is open
-Social networks
 
-Construct source
-Loading page
-AJAX pages
 Language menu
 Languages: en, pt-br, chinese, french, deutsch, spanish, korean, japnese
 Settings
 Politica privacidade
 Termos cookies
 TV mode
-HTTPS
-
-
-
-Apps:
-Privacy section design
-Privacy section
-
-Games:
-Privacy section design
-Privacy section
 
 
 

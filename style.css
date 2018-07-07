@@ -23,6 +23,11 @@ body {
     margin: 0 auto;
 }
 
+::selection {
+    color: #fff; 
+    background: #0146ab;
+}
+
 .header {
     width: 840px;
     height: 340px;
