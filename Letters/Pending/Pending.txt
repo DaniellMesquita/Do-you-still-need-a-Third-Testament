@@ -1,12 +1,15 @@
 D:\Documents\Pictures\Scans
 
-Reg and PDF:
+PDF:
 ?
 
 Scan, reg and PDF:
+Ncls
+Chns
+Dd
+
 Blmn 4
 Mtns 3-4
-Dd
-Ncls
+
 Au
 Ar
