@@ -1,0 +1,6 @@
+This file shows the Namecoin's transaction ID containing the hash of previous commit. It is for registering/copyright purposes.
+Namecoin transaction ID with previous commit(s) hash(es): 
+
+Address/Name/Domain: mssdaniellmesquita.bit
+Owner: Daniell Mesquita
+Namecoin transactions IDs with Ownership proof: e09729f639bbbdc88af6c4564f64dcb09c00189ddfbe62039a68a6f11852a8ac
