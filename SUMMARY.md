@@ -11,4 +11,5 @@
 * [Conversations: Chat 1](conversations-chat-1.md)
 * [4th song by Daniell Mesquita](4th-song-by-daniell-mesquita.md)
 * [Adults: 1st letter to Blumenauans](adults-1st-letter-to-blumenauans.md)
+* [2nd letter to Blumenauans](2nd-letter-to-blumenauans.md)
 
