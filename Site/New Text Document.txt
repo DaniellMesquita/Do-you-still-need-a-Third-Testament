@@ -1,0 +1,36 @@
+Social networks
+HTTPS
+Loading page
+AJAX pages
+
+Blog
+Swipe mobile menus
+Identify when menu is open
+
+Language menu
+Languages: en, pt-br, chinese, french, deutsch, spanish, korean, japnese
+Settings
+Politica privacidade
+Termos cookies
+TV mode
+
+
+
+
+Outros textos > Hinário, Harpa Cristã, Perguntas, Cursos, Jornal, Blog, Watt
+
+Midi > T, R, Canções
+
+Tec > As nossas, Outras tecnologias
+
+Sobre > Hist, E, Endereços, Agenda
+
+window.onscroll = function() {scrolltopFunction()};
+
+function scrolltopFunction() {
+  if (document.body.scrollTop > 340 || document.documentElement.scrollTop > 340) {
+    document.getElementById("top").style.bottom = "20px";
+  } else {
+    document.getElementById("top").style.bottom = "-70px";
+  }
+}
