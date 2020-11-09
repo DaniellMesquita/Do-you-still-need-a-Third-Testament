@@ -1,4 +1,4 @@
----
+﻿---
 description: >-
   Note: If you do not understand English / Spanish or do not like dialogues, you
   can read the letters or songs.
@@ -88,19 +88,7 @@ description: >-
 
 \(02:04\) Daniell: What is this?
 
-TAMBÉM VAI GOSTAR
-
-Filhos do Homem Por WallaceOC 2.1K 484 13° posição na "Long List" do \#WATTYS2018 Link.: [https://www.wattpad.com/list/319526134](https://www.wattpad.com/list/319526134) . 1° lugar no ranking Cyberpunk 1° lugar no ranking Fantasia Urbana 1° lugar no ranking Dragons 2° lugar no ranking Futurista 2° lugar no Concurso Enredo Dourado na categoria Ficção Científica . Sinopse: Inspirado no épico RPG "Shadowrun", o qual combina os gêneros cyberpunk, fantasia, criminalidade, entre outros, e em obras como "Androides Sonham Com Ovelhas Elétricas", livro que deu origem ao filme Blade Runner, nasce a história "Filhos do Homem". Nele, conheça o mundo em 2420. Acompanhe as conspirações desse novo mundo dominado pela magia, pelo aprimoramento genético, pelas megacorporações, onde as inúmeras raças, como os orcs, elfos, anjos, humanos e centauros vivem juntos.. Um mundo ferido pelas inúmeras guerras que se desenrolaram ao longo dos 390 anos, principalmente a guerra contra os seres que agora dominam o mundo, com suas peles escamosas, grandes chifres, dentes afiados e baforadas de fogo capazes de levar qualquer ser ao pó em segundos. Um mundo onde a lei é regida por estes seres e pelas empresas, onde apenas sobrevivem aqueles espertos e sagazes o suficiente para matar ou morrer. Um mundo no qual um grupo de seres bem distintos descobrirá se o futuro vale o passado. © Copyright Direitos Autorais. Capa criada por mim. Livro passará pelas devidas revisões após sua finalização. Não deixem de votar e, acima de tudo, comentar!
-
-A Descendência "Profecia das Sombras" Por SaraDeS5 2.1K 1.3K  _**"A Descendência" é uma história rodeada de \#Fantasias. Envolvendo \#Romance, \#Suspense, e \#Mistério. É narrada por Ayla Ross uma garota que procura por respostas, depois de seus pais serem brutalmente assassinados. Ao decorrer da historia ela vivência vários \#Dramas com seus novos amigos Caim Grendel, Lissa Aimes e Tom Crowlet.**_ 
-
-Lápis Dourado 2018 Por EduardoT6 13.2K 3.2K Se a tua paixão é criar histórias e queres ver as tuas obras avaliadas por júris, participa no nosso concurso!!! ? Inscreve te e diverte-te conosco, estamos á tua espera. Para mais informações consulta o livro!!
-
-Concursos WLB Por projeto-concurso 13.9K 2.2K O Projeto/Concurso "Wattpad Livros Brasil" \(WLB\), objetiva e anseia demonstrar os grandes talentos daqueles "seres pequenos." E iremos através das premiações incentivar, destacar, dispor ajuda no que for necessário, sem importar o tempo em que caminhas nesta jornada através da escrita.
-
-Concurso Amarelo de Alegria - Fechado Por ConcAmarelodeAlegria 6.6K 1.4K O concurso mais alegre do wattpad chegou, o que está esperando para participar? Se você procura reconhecimento, está no lugar certo. "Escrever é procurar entender, é procurar reproduzir o irreproduzível, é sentir até o último fim o sentimento que permaneceria apenas vago e sufocador. Escrever é também abençoar uma vida que não foi abençoada."
-
-Concurso Órion \|\|FECHADO\|\| Por Concurso\_orion 8K 546 Órion é uma nebulosa difusa que se encontra entre 1500 e 1800 anos-luz do Sistema Solar, e situada a sul do Cinto de Órion. Sua obra tem dificuldade em ser reconhecida igual a beleza de Órion? Então não perca tempo e se inscreva no nosso concurso. → As inscrições da segunda edição abrirão em breve \(02:04\) Miss Farrelly: its a pagan religion
+\(02:04\) Miss Farrelly: its a pagan religion
 
 \(02:05\) Daniell: Wich things you learned in this?
 
