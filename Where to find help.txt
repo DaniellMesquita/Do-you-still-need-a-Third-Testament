@@ -56,9 +56,11 @@ Ele começou a escrever cartas pregando versículos bíblicos, mas depois começou a
 
 Mas ele faz uma loucura maior do que profetizar boas novas que não estão na Bíblia: escrever uma carta aos chineses explicando a origem de tudo.
 
-Site: HTML version (en, pt)
 Site: tw
+Site: HTML version (en, pt)
 
 Site: Dl original scans and gt
 Wtpd, print and site: Dl .docx (PDF unavailable - still being updated - use it to stay up-to-date and distribute - only pt yet)
 Wtpd and print: site, telegram, fb
+
+Namecoin and Emercoin on BD
